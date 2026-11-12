@@ -1,0 +1,4 @@
+name: CustomGrindstone
+version: 1.0
+main: com.gooser.grindstone.CustomGrindstone
+description: Custom crafting-grid grindstone for Paper 1.12.2

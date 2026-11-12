@@ -11,3 +11,27 @@
 /usercache.json
 /version_history.json
 /whitelist.json
+# Old plugin build artifacts and source backups
+/CustomGrindstone/build/
+/DiamondBoost/build/
+/SwimBoost/build/
+*.save
+*.save.*
+*.bak
+
+# Cached player information
+/plugins/SkinsRestorer/cache/
+/plugins/SkinsRestorer/skins/
+
+# Old world backup and individual player data
+/world/region-old/
+/world/playerdata/
+/world/stats/
+/world/advancements/
+/world/session.lock
+/world_nether/session.lock
+/world_the_end/session.lock
+cache/
+libraries/
+logs/*.log.gz
+*.tmp

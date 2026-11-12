@@ -1,0 +1,5 @@
+name: SwimBoost
+version: 1.0.0
+main: com.gooser.swimboost.SwimBoost
+author: Gooser
+description: Increases player movement speed while in water.

@@ -1,0 +1,5 @@
+name: DiamondBoost
+version: 1.0.0
+main: com.gooser.diamondboost.DiamondBoost
+author: Gooser
+description: Adds extra diamond ore veins to newly generated Overworld chunks.

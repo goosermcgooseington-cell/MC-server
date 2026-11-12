@@ -1,0 +1,14 @@
+name: ChestFreedom
+version: 1.0
+main: com.gooser.chestfreedom.ChestFreedom
+description: Allows chest placement against existing chests.
+author: Gooser
+
+
+mkdir -p ChestFreedom/src/main/resources
+cat > ChestFreedom/src/main/resources/plugin.yml <<'EOF'
+name: ChestFreedom
+version: 1.0
+main: com.gooser.chestfreedom.ChestFreedom
+description: Allows chest placement against existing chests.
+author: Gooser
